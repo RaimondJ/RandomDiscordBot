@@ -7,11 +7,11 @@ The source is free to use.
 
 ***
 ## Current commands
-* .randomimage <quote> - generates a random image by quote, using api.unsplash.com
+* .randomimage \<quote\> - generates a random image by quote, using api.unsplash.com
 
-* .riik <country> - gets info about country, using restcountries.com
+* .riik \<country\> - gets info about country, using restcountries.com
 
-* .joonista <quote> - drawns an image using OpenAI's Dall-E
+* .joonista \<quote\> - drawns an image using OpenAI's Dall-E
 
 * .btcprice - gets current bitcoin price, using pro-api.coinmarketcap.com
 
